@@ -12,7 +12,7 @@ h1 {
     overflow: hidden;
     background-color: silver;
     width: 200px;
-    float: left;
+    float: left; 
     height: 1000px;
 }
 
