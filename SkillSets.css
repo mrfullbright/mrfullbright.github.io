@@ -1,0 +1,59 @@
+﻿body {
+    background-color: lawngreen;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    text-decoration: underline;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: silver;
+    width: 200px;
+    float: left;
+    height: 1000px;
+}
+
+    .topnav a {
+        font-size: 25px;
+        background-color: white;
+        padding: 20px;
+        margin: 30px;
+        border-radius: 30px;
+        text-decoration: none;
+        display: block;
+        text-align: center;
+    }
+
+        .topnav a:hover {
+            background-color: lawngreen;
+        }
+
+.main{
+    background-color: white;
+    height: 1000px;
+}
+
+.main h4
+{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 32px;
+}
+
+.main h5{
+    font-size: 20px;
+    margin: 20px;
+}
+
+.main li{
+    text-align: center;
+    font-size: 20px;
+    display: block
+}
+
+.lang{
+    
+}
