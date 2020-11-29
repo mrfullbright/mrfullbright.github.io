@@ -13,7 +13,7 @@ h1 {
     background-color: silver;
     width: 200px;
     float: left;   
-    height: 1000px;
+    height: 2000px;
 }
 
     .topnav a {
@@ -33,7 +33,7 @@ h1 {
 
 .main {
     background-color: white;
-    height: 1000px;
+    height: 2000px;
 }
 
     .main h4 {

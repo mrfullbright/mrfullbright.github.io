@@ -13,7 +13,7 @@ h1 {
     background-color: silver; 
     width: 200px;
     float: left;
-    height: 1000px;
+    height: 2000px;
 }
 
     .topnav a {
@@ -33,7 +33,7 @@ h1 {
 
 .main{
     background-color: white;
-    height: 1000px;
+    height: 2000px;
 }
 
 .main h4
@@ -54,6 +54,20 @@ h1 {
     display: block
 }
 
-.lang{
-    
+.lang1{
+    text-align: center;
+}
+
+.lang2{
+    text-align: center;
+}
+
+.land3{
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
