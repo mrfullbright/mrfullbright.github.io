@@ -1,5 +1,5 @@
 ﻿body {
-    background-color: lawngreen;
+    background-color: skyblue;
 }
 
 h1 {
@@ -13,7 +13,7 @@ h1 {
     background-color: silver; 
     width: 200px;
     float: left;
-    height: 2000px;
+    height: 1600px;
 }
 
     .topnav a {
@@ -28,12 +28,12 @@ h1 {
     }
 
         .topnav a:hover {
-            background-color: lawngreen;
+            background-color: skyblue;
         }
 
 .main{
     background-color: white;
-    height: 2000px;
+    height: 1600px;
 }
 
 .main h4

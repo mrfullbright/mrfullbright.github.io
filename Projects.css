@@ -1,6 +1,6 @@
 ﻿body
 {
-    background-color: aqua;
+    background-color: skyblue;
 }
 
 h1 {
@@ -29,7 +29,7 @@ h1 {
     }
 
         .topnav a:hover {
-            background-color: aqua;
+            background-color: skyblue;
         }
 
 .main {
