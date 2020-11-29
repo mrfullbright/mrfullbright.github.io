@@ -1,1 +1,0 @@
-# mrfullbright.github.io
